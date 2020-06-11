@@ -1,0 +1,807 @@
+[
+  {
+    "model": "movies.production_countries",
+    "pk": "IN",
+    "fields": { "name": "India" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TT",
+    "fields": { "name": "Trinidad and Tobago" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CN",
+    "fields": { "name": "China" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CI",
+    "fields": { "name": "Cote D'Ivoire" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KW",
+    "fields": { "name": "Kuwait" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CD",
+    "fields": { "name": "Congo" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KH",
+    "fields": { "name": "Cambodia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IL",
+    "fields": { "name": "Israel" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ZW",
+    "fields": { "name": "Zimbabwe" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MK",
+    "fields": { "name": "Macedonia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LA",
+    "fields": { "name": "Lao People's Democratic Republic" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KP",
+    "fields": { "name": "North Korea" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PT",
+    "fields": { "name": "Portugal" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ID",
+    "fields": { "name": "Indonesia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "JO",
+    "fields": { "name": "Jordan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GR",
+    "fields": { "name": "Greece" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MC",
+    "fields": { "name": "Monaco" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TF",
+    "fields": { "name": "French Southern Territories" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KE",
+    "fields": { "name": "Kenya" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GT",
+    "fields": { "name": "Guatemala" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "DO",
+    "fields": { "name": "Dominican Republic" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SE",
+    "fields": { "name": "Sweden" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AO",
+    "fields": { "name": "Angola" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "DK",
+    "fields": { "name": "Denmark" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BO",
+    "fields": { "name": "Bolivia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LT",
+    "fields": { "name": "Lithuania" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BF",
+    "fields": { "name": "Burkina Faso" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BD",
+    "fields": { "name": "Bangladesh" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LR",
+    "fields": { "name": "Liberia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "WS",
+    "fields": { "name": "Samoa" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "FR",
+    "fields": { "name": "France" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PY",
+    "fields": { "name": "Paraguay" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CY",
+    "fields": { "name": "Cyprus" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PF",
+    "fields": { "name": "French Polynesia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "EE",
+    "fields": { "name": "Estonia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IE",
+    "fields": { "name": "Ireland" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AU",
+    "fields": { "name": "Australia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "EC",
+    "fields": { "name": "Ecuador" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AT",
+    "fields": { "name": "Austria" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SU",
+    "fields": { "name": "Soviet Union" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AZ",
+    "fields": { "name": "Azerbaijan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "HK",
+    "fields": { "name": "Hong Kong" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ZA",
+    "fields": { "name": "South Africa" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "RS",
+    "fields": { "name": "Serbia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CS",
+    "fields": { "name": "Serbia and Montenegro" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NA",
+    "fields": { "name": "Namibia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LU",
+    "fields": { "name": "Luxembourg" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NO",
+    "fields": { "name": "Norway" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TZ",
+    "fields": { "name": "Tanzania" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "VN",
+    "fields": { "name": "Vietnam" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PL",
+    "fields": { "name": "Poland" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "HR",
+    "fields": { "name": "Croatia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CZ",
+    "fields": { "name": "Czech Republic" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "UY",
+    "fields": { "name": "Uruguay" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PR",
+    "fields": { "name": "Puerto Rico" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MA",
+    "fields": { "name": "Morocco" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TD",
+    "fields": { "name": "Chad" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TR",
+    "fields": { "name": "Turkey" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BG",
+    "fields": { "name": "Bulgaria" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BN",
+    "fields": { "name": "Brunei Darussalam" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "UZ",
+    "fields": { "name": "Uzbekistan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SK",
+    "fields": { "name": "Slovakia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ME",
+    "fields": { "name": "Montenegro" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "YU",
+    "fields": { "name": "Yugoslavia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "JM",
+    "fields": { "name": "Jamaica" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KG",
+    "fields": { "name": "Kyrgyz Republic" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SO",
+    "fields": { "name": "Somalia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "JP",
+    "fields": { "name": "Japan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MM",
+    "fields": { "name": "Myanmar" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IS",
+    "fields": { "name": "Iceland" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PK",
+    "fields": { "name": "Pakistan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "RO",
+    "fields": { "name": "Romania" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SV",
+    "fields": { "name": "El Salvador" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LY",
+    "fields": { "name": "Libyan Arab Jamahiriya" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CM",
+    "fields": { "name": "Cameroon" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "XC",
+    "fields": { "name": "Czechoslovakia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CR",
+    "fields": { "name": "Costa Rica" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LV",
+    "fields": { "name": "Latvia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "HU",
+    "fields": { "name": "Hungary" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PS",
+    "fields": { "name": "Palestinian Territory" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LB",
+    "fields": { "name": "Lebanon" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MN",
+    "fields": { "name": "Mongolia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "VE",
+    "fields": { "name": "Venezuela" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CG",
+    "fields": { "name": "Congo" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LK",
+    "fields": { "name": "Sri Lanka" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "RU",
+    "fields": { "name": "Russia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "UM",
+    "fields": { "name": "United States Minor Outlying Islands" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BW",
+    "fields": { "name": "Botswana" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ML",
+    "fields": { "name": "Mali" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BM",
+    "fields": { "name": "Bermuda" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MD",
+    "fields": { "name": "Moldova" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IQ",
+    "fields": { "name": "Iraq" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MQ",
+    "fields": { "name": "Martinique" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IT",
+    "fields": { "name": "Italy" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BT",
+    "fields": { "name": "Bhutan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TN",
+    "fields": { "name": "Tunisia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BR",
+    "fields": { "name": "Brazil" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KY",
+    "fields": { "name": "Cayman Islands" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "UA",
+    "fields": { "name": "Ukraine" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TH",
+    "fields": { "name": "Thailand" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PG",
+    "fields": { "name": "Papua New Guinea" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NI",
+    "fields": { "name": "Nicaragua" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "DZ",
+    "fields": { "name": "Algeria" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AW",
+    "fields": { "name": "Aruba" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SI",
+    "fields": { "name": "Slovenia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "FI",
+    "fields": { "name": "Finland" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MG",
+    "fields": { "name": "Madagascar" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KZ",
+    "fields": { "name": "Kazakhstan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AM",
+    "fields": { "name": "Armenia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BA",
+    "fields": { "name": "Bosnia and Herzegovina" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SN",
+    "fields": { "name": "Senegal" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AN",
+    "fields": { "name": "Netherlands Antilles" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "QA",
+    "fields": { "name": "Qatar" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "HN",
+    "fields": { "name": "Honduras" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BS",
+    "fields": { "name": "Bahamas" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AR",
+    "fields": { "name": "Argentina" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GH",
+    "fields": { "name": "Ghana" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CU",
+    "fields": { "name": "Cuba" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MR",
+    "fields": { "name": "Mauritania" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CH",
+    "fields": { "name": "Switzerland" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SG",
+    "fields": { "name": "Singapore" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TJ",
+    "fields": { "name": "Tajikistan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GI",
+    "fields": { "name": "Gibraltar" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PE",
+    "fields": { "name": "Peru" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SY",
+    "fields": { "name": "Syrian Arab Republic" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "IR",
+    "fields": { "name": "Iran" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AQ",
+    "fields": { "name": "Antarctica" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PH",
+    "fields": { "name": "Philippines" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "TW",
+    "fields": { "name": "Taiwan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NG",
+    "fields": { "name": "Nigeria" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "XG",
+    "fields": { "name": "East Germany" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NZ",
+    "fields": { "name": "New Zealand" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GN",
+    "fields": { "name": "Guinea" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MY",
+    "fields": { "name": "Malaysia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BB",
+    "fields": { "name": "Barbados" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CL",
+    "fields": { "name": "Chile" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NP",
+    "fields": { "name": "Nepal" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "LI",
+    "fields": { "name": "Liechtenstein" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GB",
+    "fields": { "name": "United Kingdom" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CO",
+    "fields": { "name": "Colombia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "PA",
+    "fields": { "name": "Panama" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "RW",
+    "fields": { "name": "Rwanda" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "GE",
+    "fields": { "name": "Georgia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "US",
+    "fields": { "name": "United States of America" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AE",
+    "fields": { "name": "United Arab Emirates" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "NL",
+    "fields": { "name": "Netherlands" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "UG",
+    "fields": { "name": "Uganda" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AF",
+    "fields": { "name": "Afghanistan" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "CA",
+    "fields": { "name": "Canada" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "DE",
+    "fields": { "name": "Germany" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BY",
+    "fields": { "name": "Belarus" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ES",
+    "fields": { "name": "Spain" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MT",
+    "fields": { "name": "Malta" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MO",
+    "fields": { "name": "Macao" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "KR",
+    "fields": { "name": "South Korea" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "MX",
+    "fields": { "name": "Mexico" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "AL",
+    "fields": { "name": "Albania" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "SA",
+    "fields": { "name": "Saudi Arabia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "ET",
+    "fields": { "name": "Ethiopia" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "BE",
+    "fields": { "name": "Belgium" }
+  },
+  {
+    "model": "movies.production_countries",
+    "pk": "EG",
+    "fields": { "name": "Egypt" }
+  }
+]
